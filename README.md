@@ -10,7 +10,7 @@
 * You can apply multiple filters.<br>
 
 **Drop a ⭐ if you like this repo**<br>
-**----------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------**
 <br>
 ## Screenshots<br>
 ![Screenshot1](https://github.com/sumitt1080/Frosh_Link/blob/master/screenshots/Screenshot_20210901-102419.jpg) &nbsp; ![Screenshot2](https://github.com/sumitt1080/Frosh_Link/blob/master/screenshots/Screenshot_20210901-102424.jpg) &nbsp; ![Screenshot3](https://github.com/sumitt1080/Frosh_Link/blob/master/screenshots/Screenshot_20210901-102429.jpg)<br>
